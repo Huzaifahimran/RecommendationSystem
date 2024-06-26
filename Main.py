@@ -14,6 +14,16 @@ df = pd.read_csv('All The Universities of Pakistan.xls')
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
 
+# Define dropdown options
+user_interest_options = [
+    'Computer Science', 'International Relations', 'Accounting and Finance',
+    'Business Administration', 'Medical Sciences', 'Engineering'
+]
+
+preferred_location_options = [
+    'KPK', 'Punjab', 'Qaid Kashmir', 'Sindh', 'Balochistan'
+]
+
 # Function to get BERT embeddings
 @st.cache(allow_output_mutation=True)
 def get_bert_embeddings(text):
@@ -66,7 +76,8 @@ def recommend_universities(user_interest, tuition_fee_budget, preferred_location
     filtered_pca_embeddings = np.vstack(filtered_df['pca_embedding'].values)
     similarities = cosine_similarity(user_embedding_pca, filtered_pca_embeddings).flatten()
 
-    # Get the top N similar universities
+    # Get the top N similar universities, limited to num_recommendations (max 5)
+    num_recommendations = min(num_recommendations, 5)
     similar_indices = similarities.argsort()[::-1][:num_recommendations]
 
     # Retrieve recommendations
@@ -78,10 +89,10 @@ def recommend_universities(user_interest, tuition_fee_budget, preferred_location
     return recommendations[['University', 'Popular For', 'World Rank', 'Location', 'tuition_fees', 'explanation']]
 
 # Streamlit UI components
-user_interest = st.text_input("Enter your field of interest:")
+user_interest = st.selectbox("Select your field of interest:", options=user_interest_options)
 tuition_fee_budget = st.number_input("Enter your tuition fee budget:", min_value=0.0, step=1000.0)
-preferred_location = st.text_input("Enter your preferred location:")
-num_recommendations = st.number_input("Enter the number of recommendations you want:", min_value=1, step=1)
+preferred_location = st.selectbox("Select your preferred location:", options=preferred_location_options)
+num_recommendations = st.number_input("Enter the number of recommendations you want:", min_value=1, max_value=5, step=1)
 
 if st.button("Recommend"):
     recommendations = recommend_universities(user_interest, tuition_fee_budget, preferred_location, num_recommendations)
