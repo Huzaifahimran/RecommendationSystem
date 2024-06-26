@@ -95,7 +95,7 @@ def recommend_universities(user_interest, tuition_fee_budget, preferred_location
 
 # Streamlit UI components
 user_interest = st.selectbox("Select your field of interest:", options=user_interest_options)
-tuition_fee_budget = st.number_input("Enter your tuition fee budget:", min_value=8000.0, step=1000.0)
+tuition_fee_budget = st.number_input("Enter your tuition fee budget:", min_value=80000.0, step=1000.0)
 preferred_location = st.selectbox("Select your preferred location:", options=preferred_location_options)
 num_recommendations = st.number_input("Enter the number of recommendations you want:", min_value=1, max_value=5, step=1)
 
