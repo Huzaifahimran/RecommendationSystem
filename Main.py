@@ -99,22 +99,6 @@ tuition_fee_budget = st.number_input("Enter your tuition fee budget:", min_value
 preferred_location = st.selectbox("Select your preferred location:", options=preferred_location_options)
 num_recommendations = st.number_input("Enter the number of recommendations you want:", min_value=1, max_value=5, step=1)
 
-# Custom CSS to hide the plus and minus buttons
-st.markdown("""
-    <style>
-    /* Hide the increment and decrement buttons in the number input */
-    input[type=number]::-webkit-outer-spin-button,
-    input[type=number]::-webkit-inner-spin-button {
-        -webkit-appearance: none;
-        margin: 0;
-    }
-
-    input[type=number] {
-        -moz-appearance: textfield;
-    }
-    </style>
-""", unsafe_allow_html=True)
-
 if st.button("Recommend"):
     recommendations = recommend_universities(user_interest, tuition_fee_budget, preferred_location, num_recommendations)
     st.dataframe(recommendations)
