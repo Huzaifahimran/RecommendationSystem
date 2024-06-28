@@ -7,44 +7,44 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 6,1561,University of Engineering & Technology Lahore,3924,1606,1341,88292,0,83,private,Business Administration,Sindh
 7,1607,Government College University Faisalabad,8407,975,769,123502,1,48,private,Computer Science,Sindh
 8,1702,International Islamic University Islamabad,5799,1611,1164,139596,0,21,private,Computer Science,Balochistan
-9,1722,University of Lahore,6204,1649,1114,97556,0,29,public,Medical Sciences,KPK
-10,1743,Lahore University of Management Sciences,3073,1602,1948,138150,0,32,public,Medical Sciences,KPK
+9,1722,University of Lahore,6204,1649,1114,97556,0,29,public,Medical,KPK
+10,1743,Lahore University of Management Sciences,3073,1602,1948,138150,0,32,public,Medical,KPK
 11,1757,Bahauddin Zakariya University,6844,1165,1167,129511,1,69,private,Computer Science,Punjab
 12,1763,Riphah International University,4082,2320,1518,95971,1,12,private,Business Administration,KPK
 13,1860,University of Management and Technology,6705,1521,1256,119811,1,36,public,Business Administration,Balochistan
 14,1879,Bahria University,5119,2276,1475,93614,1,11,private,Computer Science,Sindh
-15,1882,Government College University Lahore,3454,1968,2014,121095,0,86,public,Medical Sciences,Balochistan
+15,1882,Government College University Lahore,3454,1968,2014,121095,0,86,public,Medical,Balochistan
 16,1906,National University of Sciences & Technology,3708,7521,629,122227,1,48,private,Business Administration,Balochistan
 17,1906,Islamia University Bahawalpur,7775,1403,1176,107055,1,36,public,Engineering,Punjab
 18,1995,National University of Computer & Emerging Sciences,3761,1971,2129,103400,0,60,public,Computer Science,Qaid Kashmir
 19,2040,University of Peshawar,8639,1769,1186,99524,0,41,public,Accounting and Finance,Punjab
-20,2159,Mehran University of Engineering & Technology,4666,1999,2181,90795,1,66,public,Medical Sciences,KPK
+20,2159,Mehran University of Engineering & Technology,4666,1999,2181,90795,1,66,public,Medical,KPK
 21,2232,University of Karachi,6715,1572,1896,128018,1,19,private,International Relations,Sindh
-22,2295,University of Engineering & Technology Taxila,9225,2160,1393,116551,0,44,private,Medical Sciences,Sindh
+22,2295,University of Engineering & Technology Taxila,9225,2160,1393,116551,0,44,private,Medical,Sindh
 23,2295,Abdul Wali Khan University Mardan,13259,1494,983,120516,0,74,private,Computer Science,KPK
 24,2361,Allama Iqbal Open University,1632,3861,3475,136846,0,61,private,Computer Science,Punjab
 25,2492,University of Gujrat,9289,1937,1695,87690,0,52,public,Computer Science,Balochistan
-26,2545,Air University Islamabad,8796,2281,1805,110335,1,68,public,Medical Sciences,Balochistan
+26,2545,Air University Islamabad,8796,2281,1805,110335,1,68,public,Medical,Balochistan
 27,2629,University of Arid Agriculture Rawalpindi,9988,1635,1858,131243,0,43,private,Engineering,KPK
 28,2666,Hazara University,11899,2306,1469,80302,0,39,public,Computer Science,Qaid Kashmir
 29,2771,University of Central Punjab,7993,2379,2324,88777,0,78,private,Computer Science,Sindh
 30,2775,University of Veterinary and Animal Sciences Lahore,10482,1742,1989,113724,0,89,public,Accounting and Finance,Balochistan
 31,2866,University of Engineering & Technology Peshawar,12014,2082,1778,139973,1,53,public,Business Administration,Punjab
-32,2875,Agricultural University Peshawar,9130,1561,2496,94173,1,14,public,Medical Sciences,Qaid Kashmir
+32,2875,Agricultural University Peshawar,9130,1561,2496,94173,1,14,public,Medical,Qaid Kashmir
 33,2909,Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,8774,3077,2246,86838,1,31,private,Computer Science,Qaid Kashmir
 34,3029,Pakistan Institute of Engineering & Applied Sciences Islamabad,10830,2172,2263,136270,0,52,private,International Relations,Sindh
 35,3034,University of Malakand,13452,2381,1741,130267,0,32,public,Accounting and Finance,Balochistan
-36,3127,Institute of Space Technology,10079,3543,2263,82456,0,26,private,Medical Sciences,Qaid Kashmir
+36,3127,Institute of Space Technology,10079,3543,2263,82456,0,26,private,Medical,Qaid Kashmir
 37,3142,Ned University of Engineering & Technology,7692,2561,2996,148731,0,60,private,Accounting and Finance,KPK
 38,3158,Information Technology University Lahore,8263,3718,2648,97629,0,81,private,Engineering,Balochistan
 39,3202,University of Sargodha,7755,7521,1366,143854,1,11,private,International Relations,Qaid Kashmir
 40,3247,University of Azad Jammu and Kashmir,9603,2930,2694,87992,1,24,private,Computer Science,Qaid Kashmir
 41,3316,Kohat University of Science & Technology,13010,2407,2272,95230,0,19,private,Computer Science,KPK
 42,3368,Mirpur University of Science & Technology,12096,2665,2469,143096,0,27,private,International Relations,Balochistan
-43,3379,National Textile University Faisalabad,10921,3029,2634,125639,1,53,public,Medical Sciences,KPK
-44,3494,Dow University of Health Sciences Karachi,9314,2624,3245,139859,0,58,public,Medical Sciences,KPK
-45,3501,Lahore College for Women University,10677,3076,2844,141065,1,44,private,Medical Sciences,Balochistan
-46,3576,Khawaja Fareed University of Engineering and Information Technology KFUEIT,14991,2685,2246,113747,0,27,public,Medical Sciences,Qaid Kashmir
+43,3379,National Textile University Faisalabad,10921,3029,2634,125639,1,53,public,Medical,KPK
+44,3494,Dow University of Health Sciences Karachi,9314,2624,3245,139859,0,58,public,Medical,KPK
+45,3501,Lahore College for Women University,10677,3076,2844,141065,1,44,private,Medical,Balochistan
+46,3576,Khawaja Fareed University of Engineering and Information Technology KFUEIT,14991,2685,2246,113747,0,27,public,Medical,Qaid Kashmir
 47,3648,"Balochistan University of Information Technology, Engineering and Management Sciences",11843,2849,2921,104333,0,40,public,Computer Science,Balochistan
 48,3661,Iqra University Karachi,8418,3853,3459,105339,1,85,private,Business Administration,Punjab
 49,3667,Forman Christian College Lahore,8060,3423,3649,123305,0,29,private,International Relations,KPK
@@ -56,22 +56,22 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 55,4134,University of Health Sciences Lahore,8038,6087,3677,148173,0,14,public,International Relations,KPK
 56,4143,Fatima Jinnah Women University,11890,3878,3544,108733,0,10,private,Computer Science,Qaid Kashmir
 57,4169,University of Balochistan,11078,3071,3909,131274,0,68,private,Computer Science,Punjab
-58,4178,Karakarum International University,13423,3273,3428,126048,1,61,public,Medical Sciences,KPK
+58,4178,Karakarum International University,13423,3273,3428,126048,1,61,public,Medical,KPK
 59,4358,University of Okara,16560,3566,3032,89088,1,87,private,International Relations,Punjab
 60,4419,Hamdard University,6822,5469,4664,114947,0,63,public,Computer Science,Sindh
-61,4430,Ziauddin University,10071,4118,4336,84289,0,88,public,Medical Sciences,Qaid Kashmir
+61,4430,Ziauddin University,10071,4118,4336,84289,0,88,public,Medical,Qaid Kashmir
 62,4540,National College of Business Administration & Economics,15963,5173,3043,101005,0,48,private,Computer Science,Qaid Kashmir
 63,4594,Virtual University of Pakistan,4615,7521,4497,126628,0,53,private,International Relations,KPK
 64,4731,National Institute for Biotechnology and Genetic Engineering,19628,4581,2844,94339,0,11,public,Accounting and Finance,KPK
 65,4812,Institute of Business Administration Karachi,5724,3172,5870,99876,0,34,public,International Relations,Qaid Kashmir
 66,4899,Institute of Business Management Karachi,7369,3762,5596,95285,1,24,public,Computer Science,KPK
-67,4957,Shifa Tameer e Millat University,2910,3467,6565,108522,0,17,public,Medical Sciences,Punjab
+67,4957,Shifa Tameer e Millat University,2910,3467,6565,108522,0,17,public,Medical,Punjab
 68,4985,Pakistan Institute of Development Economics,6526,4805,5690,138140,1,15,private,Computer Science,KPK
 69,4985,City University of Science & Information Technology Peshawar,14839,7521,2885,89311,0,56,private,Computer Science,Punjab
 70,5003,King Edward Medical University,11518,5964,4624,89981,1,12,public,International Relations,Balochistan
 71,5099,Sindh Agriculture University,13210,3019,5155,81486,0,46,public,Computer Science,Balochistan
 72,5298,Jinnah Sindh Medical University,13089,5457,5024,132864,0,37,private,International Relations,Balochistan
-73,5385,Sir Syed University of Engineering & Technology,7546,5133,5963,117876,1,49,public,Medical Sciences,Balochistan
+73,5385,Sir Syed University of Engineering & Technology,7546,5133,5963,117876,1,49,public,Medical,Balochistan
 74,5394,Nuclear Institute for Agriculture and Biology,21740,4678,3781,103487,1,76,public,Accounting and Finance,Sindh
 75,5527,Lahore School of Economics,12117,7521,4497,148802,1,81,private,Computer Science,Balochistan
 76,5598,COMSATS University Abbottabad,14720,1751,5775,83393,0,36,public,Accounting and Finance,Sindh
@@ -88,7 +88,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 87,6550,Health Services Academy Cabinet Division Government of Pakistan,16419,7291,5206,117420,1,70,private,Computer Science,KPK
 88,6696,Gandhara University,15157,7521,5316,101248,1,70,private,Business Administration,Qaid Kashmir
 89,6878,Sindh Institute of Urology and Transplantation,14648,7521,5481,103446,0,66,private,Engineering,Balochistan
-90,7024,Cecos University,6003,5487,7216,149703,1,30,private,Medical Sciences,Sindh
+90,7024,Cecos University,6003,5487,7216,149703,1,30,private,Medical,Sindh
 91,7132,National University of Modern Languages Islamabad,8563,3392,7216,137425,1,46,private,Computer Science,Qaid Kashmir
 92,7256,Shaheed Zulfikar Ali Bhutto Institute of Science & Technology Islamabad,7817,4368,7216,116337,1,14,private,Engineering,Punjab
 93,7256,Gift University,5783,6170,7216,97223,1,72,public,Business Administration,Balochistan
@@ -100,13 +100,13 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 99,8200,Faisalabad Medical University (Punjab Medical College),16982,7521,5690,106379,0,85,public,Business Administration,Punjab
 100,8762,University of Faisalabad,9996,5378,7216,113832,1,23,private,Computer Science,Balochistan
 101,8822,Center for Advance Studies In Engineering,16982,7521,5870,95702,1,19,public,Computer Science,Balochistan
-102,8883,National University of Medical Sciences NUMS Pakistan,12586,3583,7216,116186,0,82,public,Computer Science,Balochistan
+102,8883,National University of Medical NUMS Pakistan,12586,3583,7216,116186,0,82,public,Computer Science,Balochistan
 103,9036,Hajvery University Lahore,5523,7521,7216,98930,1,41,private,Business Administration,Sindh
-104,9068,University of Wah,15633,4908,6829,111786,1,86,private,Medical Sciences,Balochistan
+104,9068,University of Wah,15633,4908,6829,111786,1,86,private,Medical,Balochistan
 105,9074,Quaid-e-Awam University of Engineering Science & Technology,13493,3188,7216,112856,1,83,private,Accounting and Finance,Balochistan
 106,9074,Usman Institute of Technology Hamdard University,12406,4090,7216,87078,1,80,public,Computer Science,Balochistan
 107,9174,Institute of Management Sciences Peshawar,12169,4430,7216,123121,1,38,private,Computer Science,Qaid Kashmir
-108,9196,Lahore Garrison University,12870,3944,7216,124358,1,63,private,Medical Sciences,Sindh
+108,9196,Lahore Garrison University,12870,3944,7216,124358,1,63,private,Medical,Sindh
 109,9305,University of Haripur,14932,2363,7216,96176,1,83,private,International Relations,KPK
 110,9519,Abbottabad University of Science and Technology,11547,5373,7216,146751,1,36,private,Engineering,Qaid Kashmir
 111,9553,Capital University of Science & Technology,13617,3893,7216,96237,0,87,private,Computer Science,KPK
@@ -151,7 +151,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 150,14112,Rawalpindi Medical University,12275,7521,7216,102816,0,34,private,Computer Science,KPK
 151,14285,Beaconhouse National University,12479,7521,7216,116880,0,10,private,Business Administration,Qaid Kashmir
 152,14407,Riphah International University Faisalabad,17558,6087,7216,96577,0,65,public,Computer Science,KPK
-153,14580,Shaheed Benazir Bhutto University Shaheed Benazirabad,19110,5324,7216,137168,1,26,public,Medical Sciences,Balochistan
+153,14580,Shaheed Benazir Bhutto University Shaheed Benazirabad,19110,5324,7216,137168,1,26,public,Medical,Balochistan
 154,14638,Mohi-Ud-Din Islamic University,12919,7521,7216,129802,0,18,private,Business Administration,Sindh
 155,14775,National Institute of Blood Diseases and Bone Marrow Transplantation,13089,7521,7216,98942,1,54,public,Business Administration,Punjab
 156,14878,University of Sialkot,19850,5016,7216,105451,1,45,public,Computer Science,Sindh
@@ -159,16 +159,16 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 158,15338,Roots Millennium College,18186,7521,6829,107180,1,22,public,Computer Science,Balochistan
 159,15401,Preston University Pakistan,13850,7521,7216,95995,1,58,public,Engineering,Balochistan
 160,15419,University of South Asia Lahore,13871,7521,7216,83519,0,54,private,Computer Science,Sindh
-161,15601,Pakistan Institute of Medical Sciences,14095,7521,7216,139894,0,74,public,Business Administration,KPK
+161,15601,Pakistan Institute of Medical,14095,7521,7216,139894,0,74,public,Business Administration,KPK
 162,15686,University of Home Economics Lahore,14185,7521,7216,83897,1,20,public,Accounting and Finance,Qaid Kashmir
 163,15747,University of Sahiwal,19291,6056,7216,137712,0,58,public,Business Administration,KPK
 164,15765,Khadim Ali Shah Bukhari Institute of Technology,14271,7521,7216,138775,0,67,private,Computer Science,Punjab
-165,15874,Jinnah Medical College Peshawar,14399,7521,7216,87924,0,54,public,Medical Sciences,Punjab
-166,15961,DHA Suffa University,14506,7521,7216,89636,1,40,public,Business Administration,Sindh
+165,15874,Jinnah Medical College Peshawar,14399,7521,7216,87924,0,54,public,Medical,Punjab
+166,15961,DHA Suffa University,14506,7521,7216,89636,1,40,public,Computer Science,Sindh
 167,16056,COMSATS University Islamabad Virtual campus,14618,7521,7216,137490,0,31,private,Accounting and Finance,Punjab
 168,16084,Karachi Institute of Technology and Entrepreneurship,14648,7521,7216,114300,0,33,public,Business Administration,KPK
 169,16101,ILMA University,14670,7521,7216,108529,1,80,private,International Relations,Sindh
-170,16150,Cholistan University of Veterinary and Animal Sciences Bahawalpur,20368,5703,7216,121438,0,43,public,Medical Sciences,Balochistan
+170,16150,Cholistan University of Veterinary and Animal Sciences Bahawalpur,20368,5703,7216,121438,0,43,public,Medical,Balochistan
 171,16318,Ali Institute of Education,14932,7521,7216,138847,0,39,private,Engineering,Punjab
 172,16362,Institute of Southern Punjab Multan,17202,7121,7216,112915,0,60,public,Computer Science,Qaid Kashmir
 173,16485,Iqra National University Peshawar,15813,7425,7216,122116,1,72,public,Computer Science,KPK
@@ -180,16 +180,16 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 179,17349,University of Lakki Marwat,20317,6472,7216,84027,1,71,public,Computer Science,Sindh
 180,17474,Greenwich University Karachi,16291,7521,7216,136917,1,33,private,Computer Science,KPK
 181,17474,Abasyn University Peshawar,16291,7521,7216,128209,0,49,private,Accounting and Finance,Balochistan
-182,17729,University of Kotli Azad Jammu and Kashmir,22165,5733,7216,91917,0,63,public,Medical Sciences,Balochistan
+182,17729,University of Kotli Azad Jammu and Kashmir,22165,5733,7216,91917,0,63,public,Medical,Balochistan
 183,17754,(3) Abdus Salam School of Mathematical Sciences GC University Lahore,17316,7425,7216,133103,0,49,private,Business Administration,Punjab
-184,17754,Pakistan Institute of Fashion and Design,16619,7521,7216,104546,1,32,public,Medical Sciences,Sindh
+184,17754,Pakistan Institute of Fashion and Design,16619,7521,7216,104546,1,32,public,Medical,Sindh
 185,17771,Shaikh Ayaz University Shikarpur Sindh,16638,7521,7216,80385,1,17,private,Accounting and Finance,Sindh
 186,17771,Shaheed Mohtarma Benazir Bhutto Medical University,16638,7521,7216,143086,1,26,public,Computer Science,Balochistan
-187,17771,Dadabhoy Institute of Higher Education Karachi,16638,7521,7216,125101,1,46,private,Medical Sciences,Qaid Kashmir
-188,17818,Lahore Leads University,16692,7521,7216,85830,1,33,private,Medical Sciences,Balochistan
+187,17771,Dadabhoy Institute of Higher Education Karachi,16638,7521,7216,125101,1,46,private,Medical,Qaid Kashmir
+188,17818,Lahore Leads University,16692,7521,7216,85830,1,33,private,Medical,Balochistan
 189,17872,Cadet College Hasan Abdal,16753,7521,7216,138990,1,56,public,Engineering,Sindh
 190,17900,University of Engineering & Technology UET Mardan,19252,7068,7216,148954,1,22,public,Computer Science,Punjab
-191,17927,Federal Urdu University of Arts Sciences and Technology FUUAST Islamabad,16829,7521,7216,85596,1,56,private,Medical Sciences,KPK
+191,17927,Federal Urdu University of Arts Sciences and Technology FUUAST Islamabad,16829,7521,7216,85596,1,56,private,Medical,KPK
 192,18060,Pakistan Institute of Management,16982,7521,7216,135955,1,16,public,Business Administration,Sindh
 193,18111,Textile Institute of Pakistan,17044,7521,7216,122360,1,28,private,Business Administration,Sindh
 194,18132,Management Development Institute MDI,17072,7521,7216,141985,1,78,public,Accounting and Finance,Punjab
@@ -199,24 +199,24 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 198,18427,Karachi Institute of Power Engineering,21740,7521,6829,111545,1,66,public,Business Administration,KPK
 199,18536,Sardar Bahadur Khan Women University Quetta,17535,7521,7216,125575,1,66,private,Computer Science,Balochistan
 200,18560,Peoples University of Medical & Health Sciences for Women Shaheed Benazirabad,17558,7521,7216,110557,0,55,private,Computer Science,Qaid Kashmir
-201,18583,Lahore Medical & Dental College,17587,7521,7216,124990,0,70,private,Medical Sciences,Sindh
+201,18583,Lahore Medical & Dental College,17587,7521,7216,124990,0,70,private,Medical,Sindh
 202,18665,Pakistan Marine Academy,17682,7521,7216,149396,1,86,public,Computer Science,Balochistan
 203,18723,Sir Adamjee Institute of Management Sciences,17748,7521,7216,100855,0,32,private,Business Administration,KPK
 204,18723,Al Khair University,17748,7521,7216,89761,0,17,private,Computer Science,Balochistan
 205,18751,(4) Pakistan Institute of Computer Sciences,17779,7521,7216,97944,1,51,public,International Relations,KPK
-206,18904,Planwel University,17951,7521,7216,141909,1,36,public,Medical Sciences,Sindh
+206,18904,Planwel University,17951,7521,7216,141909,1,36,public,Medical,Sindh
 207,18904,Liaquat College of Medicine & Dentistry,17951,7521,7216,147883,1,36,public,Computer Science,Sindh
 208,18928,Khushal Khan Khattak University,19330,7291,7216,118813,0,38,public,Engineering,Balochistan
 209,19023,Military College Jhelum,18107,7521,7216,105225,1,49,private,Business Administration,Punjab
 210,19209,Newports Institute of Communications and Economics Karachi,18337,7521,7216,122516,0,85,public,Engineering,Balochistan
 211,19254,Punjab Tianjin University of Technology Lahore,18382,7521,7216,93424,0,45,public,Business Administration,Qaid Kashmir
-212,19283,Karachi School for Business & Leadership,18412,7521,7216,131241,0,28,private,Medical Sciences,Sindh
+212,19283,Karachi School for Business & Leadership,18412,7521,7216,131241,0,28,private,Medical,Sindh
 213,19283,Quaid-e-Azam Medical College,18412,7521,7216,118850,1,56,public,Computer Science,Qaid Kashmir
 214,19359,Women University Swabi,18491,7521,7216,131360,1,49,private,Computer Science,Punjab
 215,19359,The Millennium University College TMUC,18491,7521,7216,138401,0,14,public,Business Administration,KPK
 216,19412,PEF College,18561,7521,7216,136249,1,55,private,Business Administration,KPK
 217,19435,Rawalpindi Women University Rawalpindi,18587,7521,7216,108377,1,13,public,Business Administration,Punjab
-218,19435,Services Institute of Medical Sciences Lahore,18587,7521,7216,112002,0,50,private,International Relations,Balochistan
+218,19435,Services Institute of Medical Lahore,18587,7521,7216,112002,0,50,private,International Relations,Balochistan
 219,19588,Al Hamd Islamic University,18773,7521,7216,124611,0,53,private,Computer Science,Balochistan
 220,19588,University of Loralai,18773,7521,7216,149236,1,78,public,International Relations,Punjab
 221,19588,Lahore Leads University,18773,7521,7216,147057,1,34,private,Engineering,KPK
@@ -228,13 +228,13 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 227,19837,University of Baltistan Skardu,22601,6729,7216,92861,1,21,private,Computer Science,KPK
 228,19841,Shalamar Medical and Dental College,19076,7521,7216,110156,0,68,private,Accounting and Finance,Qaid Kashmir
 229,19868,Northern University Nowshera Cantonment,19110,7521,7216,87339,0,19,public,International Relations,KPK
-230,19868,Government College University Lahore,19110,7521,7216,126726,0,72,private,Medical Sciences,Punjab
+230,19868,Government College University Lahore,19110,7521,7216,126726,0,72,private,Medical,Punjab
 231,19940,Nazeer Hussian University Karachi,19188,7521,7216,93535,1,26,public,Engineering,Qaid Kashmir
 232,20000,Preston Institute of Management Sciences and Technology Karachi,19252,7521,7216,117798,0,13,private,International Relations,Qaid Kashmir
-233,20037,Jinnah Medical & Dental College,19291,7521,7216,83341,0,73,private,Medical Sciences,Sindh
+233,20037,Jinnah Medical & Dental College,19291,7521,7216,83341,0,73,private,Medical,Sindh
 234,20104,Institute of Industrial Electronics Engineering,19368,7521,7216,141002,1,43,private,Computer Science,Punjab
 235,20132,Nishtar Medical College,23767,7521,6829,113752,0,61,private,Engineering,Balochistan
-236,20298,Sir Syed College of Medical Sciences for Girls,19592,7521,7216,127916,1,42,public,Computer Science,Qaid Kashmir
+236,20298,Sir Syed College of Medical for Girls,19592,7521,7216,127916,1,42,public,Computer Science,Qaid Kashmir
 237,20335,Akhtar Saeed Medical and Dental College,19628,7521,7216,135796,1,85,private,Business Administration,KPK
 238,20374,PIQC Institute of Quality (Pakistan Institute of Quality Control),19678,7521,7216,94600,0,89,private,Computer Science,KPK
 239,20406,Sheikh Zayed Medical College,19709,7521,7216,105264,0,58,private,Computer Science,KPK
@@ -242,7 +242,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 241,20606,Continental Medical College,19934,7521,7216,140082,1,20,private,Computer Science,Punjab
 242,20606,Women University of Azad Jammu and Kashmir,19934,7521,7216,132254,1,87,private,International Relations,Qaid Kashmir
 243,20606,University College Lahore,19934,7521,7216,103419,1,60,private,International Relations,KPK
-244,20682,National Skills University,20022,7521,7216,98233,1,75,public,Medical Sciences,Punjab
+244,20682,National Skills University,20022,7521,7216,98233,1,75,public,Medical,Punjab
 245,20717,National Centre of Excellence in Analytical Chemistry University of Sindh,20058,7521,7216,148067,0,77,public,International Relations,Sindh
 246,20756,Khyber Girls Medical College Peshawar,20109,7521,7216,109971,0,31,private,Business Administration,Balochistan
 247,20787,NFC Institute of Engineering & Fertilizer Research,20144,7521,7216,82392,1,37,public,Engineering,Qaid Kashmir
@@ -250,33 +250,33 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 249,20940,Multan Medical & Dental College,20317,7521,7216,97873,0,66,public,International Relations,Qaid Kashmir
 250,21115,Green International University Lahore,20518,7521,7216,100114,0,74,public,International Relations,KPK
 251,21200,Al Kauthar Islamic University,20616,7521,7216,98545,0,36,private,Computer Science,KPK
-252,21244,Muslim Youth University Islamabad,20667,7521,7216,107540,0,83,private,Medical Sciences,Balochistan
+252,21244,Muslim Youth University Islamabad,20667,7521,7216,107540,0,83,private,Medical,Balochistan
 253,21544,College of Accounting and Management Sciences,21010,7521,7216,118231,0,54,public,International Relations,Punjab
-254,21544,Gambat Institute of Medical Sciences,21010,7521,7216,136891,0,47,public,Accounting and Finance,Punjab
+254,21544,Gambat Institute of Medical,21010,7521,7216,136891,0,47,public,Accounting and Finance,Punjab
 255,21544,Army Public College of Management and Sciences,21010,7521,7216,130392,0,28,private,International Relations,Punjab
 256,21593,Margalla Institute of Health Sciences,21063,7521,7216,112679,0,14,public,Computer Science,Punjab
 257,21633,Bolan Medical College,21113,7521,7216,100040,1,58,public,International Relations,Sindh
 258,21771,Frontier Medical College Abbottabad,21257,7521,7216,105248,0,87,public,Computer Science,Punjab
-259,21900,Karachi School of Art,21410,7521,7216,115178,0,76,private,Medical Sciences,Punjab
-260,21900,Islamabad Medical & Dental College,21410,7521,7216,94629,0,62,public,Medical Sciences,KPK
+259,21900,Karachi School of Art,21410,7521,7216,115178,0,76,private,Medical,Punjab
+260,21900,Islamabad Medical & Dental College,21410,7521,7216,94629,0,62,public,Medical,KPK
 261,21950,NUR International University,21462,7521,7216,86094,0,17,private,Engineering,Sindh
 262,22002,Global Institute Lahore,21521,7521,7216,127095,0,71,public,Engineering,KPK
 263,22093,Jinnah Islamia College Lahore,21621,7521,7216,141807,0,34,public,Business Administration,Qaid Kashmir
-264,22148,Fata University,21680,7521,7216,99948,0,53,private,Medical Sciences,Sindh
+264,22148,Fata University,21680,7521,7216,99948,0,53,private,Medical,Sindh
 265,22240,Women Medical College,21790,7521,7216,111986,0,31,public,Computer Science,Punjab
 266,22240,National College of Business Administration & Management Sciences,21790,7521,7216,140992,1,28,public,Computer Science,Sindh
-267,22289,Altamash Institute of Dental Medicine,21851,7521,7216,98486,0,27,private,Medical Sciences,Punjab
+267,22289,Altamash Institute of Dental Medicine,21851,7521,7216,98486,0,27,private,Medical,Punjab
 268,22404,Hajvery University Lahore,21980,7521,7216,112488,1,61,public,Computer Science,Qaid Kashmir
 269,22518,Postgraduate Medical Institute Lahore,22105,7521,7216,138569,0,29,public,Business Administration,Punjab
 270,22632,Wah Engineering College,22227,7521,7216,138102,1,76,public,Computer Science,Balochistan
 271,22740,Shaikh Khalifa Bin Zayed Al Nahyan Medical & Dental College Lahore,22339,7521,7216,111030,0,86,private,Computer Science,Qaid Kashmir
 272,22795,University of Mianwali,22405,7521,7216,89624,1,48,public,Business Administration,KPK
-273,22847,Fatima Jinnah Dental College,22464,7521,7216,114178,1,37,public,Medical Sciences,Qaid Kashmir
+273,22847,Fatima Jinnah Dental College,22464,7521,7216,114178,1,37,public,Medical,Qaid Kashmir
 274,22900,University of Chakwal,22526,7521,7216,84303,0,46,public,Engineering,Sindh
 275,23134,Ahmad Medical Institute,22783,7521,7216,131143,0,73,public,Accounting and Finance,KPK
 276,23235,Government College University Hyderabad,22897,7521,7216,120398,0,45,public,Accounting and Finance,Sindh
 277,23315,Brains Post Graduate College,22978,7521,7216,104010,0,61,private,International Relations,Sindh
-278,23315,Chandka Medical College Larkana,22978,7521,7216,128585,1,47,public,Medical Sciences,KPK
+278,23315,Chandka Medical College Larkana,22978,7521,7216,128585,1,47,public,Medical,KPK
 279,23315,Edwardes College,22978,7521,7216,97489,0,10,public,Accounting and Finance,Qaid Kashmir
 280,23315,Institute of Business & Information Technology University of the Punjab,22978,7521,7216,109879,0,43,private,Business Administration,Qaid Kashmir
 281,23390,Shaheed Benazir Bhutto University of Veterinary and Animal Sciences,23054,7521,7216,108313,1,78,private,Computer Science,KPK
@@ -296,19 +296,19 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 295,24299,Shaheed Benazir Bhutto Dewan University,24019,7521,7216,121487,0,52,private,International Relations,Balochistan
 296,24455,Bolan University of Medical and Health Sciences Quetta,24184,7521,7216,149440,0,73,private,Computer Science,Sindh
 297,24580,Kohsar University,24320,7521,7216,97975,1,28,public,Computer Science,Sindh
-298,24580,University of Sufism and Modern Sciences Bhitshah Sindh,24320,7521,7216,136145,1,19,private,Medical Sciences,Sindh
-299,24673,Comwave Institute of Technology,24426,7521,7216,100095,1,49,public,Medical Sciences,KPK
-300,24824,University of Jhang,24584,7521,7216,95670,1,68,public,Medical Sciences,Qaid Kashmir
+298,24580,University of Sufism and Modern Sciences Bhitshah Sindh,24320,7521,7216,136145,1,19,private,Medical,Sindh
+299,24673,Comwave Institute of Technology,24426,7521,7216,100095,1,49,public,Medical,KPK
+300,24824,University of Jhang,24584,7521,7216,95670,1,68,public,Medical,Qaid Kashmir
 301,24824,Asian Institute of Fashion Design,24584,7521,7216,85650,1,60,public,Computer Science,Punjab
 302,24824,Government College of Science Wahdat Road Lahore,24584,7521,7216,131472,1,43,public,Computer Science,Punjab
 303,24993,Mir Chakar Khan Rind University Sibi Balochistan,24767,7521,7216,85357,1,57,private,Business Administration,Punjab
 304,24993,COMMECS Institute of Business and Emerging Sciences,24767,7521,7216,94632,0,43,private,Computer Science,Punjab
 305,25062,Hailey College of Banking & Finance University of the Punjab Lahore,24842,7521,7216,101858,1,34,private,Accounting and Finance,Balochistan
 306,25213,Central Park Medical College,25006,7521,7216,131368,1,38,public,Engineering,KPK
-307,25623,Gangdara Institute of Science & Technology,25439,7521,7216,118011,1,18,private,Medical Sciences,Balochistan
+307,25623,Gangdara Institute of Science & Technology,25439,7521,7216,118011,1,18,private,Medical,Balochistan
 308,25780,(3) G C University Lahore Management Studies Department,25609,7521,7216,93942,1,44,private,Business Administration,Qaid Kashmir
 309,25940,Acharya Tulsi National College of Commerce Shivamogga,25781,7521,7216,85655,0,26,private,Computer Science,KPK
-310,26194,Aligarh Institute of Technology,26053,7521,7216,105169,0,44,public,Medical Sciences,Punjab
+310,26194,Aligarh Institute of Technology,26053,7521,7216,105169,0,44,public,Medical,Punjab
 311,26367,Modern Institute of Informatics and Management,26234,7521,7216,100061,1,42,public,Accounting and Finance,Punjab
 312,26548,Pakistan College of Law,26421,7521,7216,136725,0,65,public,Business Administration,Qaid Kashmir
 313,26548,Zawiya Academy,26421,7521,7216,81163,0,54,private,Computer Science,KPK
@@ -331,7 +331,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 330,27728,Institute of Engineering & Technology Rawalpindi & Lahore,27654,7521,7216,140959,0,84,public,Business Administration,Qaid Kashmir
 331,27846,University of Islamic Studies Karachi,27771,7521,7216,97695,1,83,private,Computer Science,Sindh
 332,28152,Pearl Institute Quetta,28092,7521,7216,145686,1,57,public,Engineering,Balochistan
-333,28265,Rawalpindi College of Commerce,28205,7521,7216,104951,1,56,private,Medical Sciences,Qaid Kashmir
+333,28265,Rawalpindi College of Commerce,28205,7521,7216,104951,1,56,private,Medical,Qaid Kashmir
 334,28265,Fazaia College of Education for Women Lahore,28205,7521,7216,149445,0,57,public,Computer Science,KPK
 335,28372,The Institute of Legal Studies,28315,7521,7216,119862,0,52,public,Computer Science,Punjab
 336,28466,Frontier Law College,28413,7521,7216,136246,1,17,private,Computer Science,Sindh
@@ -347,21 +347,21 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 346,29659,Government Post Graduate College Mandian Abbottabad,29635,7521,7216,123750,0,16,public,Computer Science,Qaid Kashmir
 347,29843,Liaquat College of Management and Science,29820,7521,7216,129804,1,16,public,Engineering,Qaid Kashmir
 348,29843,SMA Rizvi Textile Institute,29820,7521,7216,108939,0,35,private,Accounting and Finance,KPK
-349,29843,Fatima Jinnah Medical University Lahore,29820,7521,7216,100647,0,45,private,Medical Sciences,KPK
-350,29932,Frontier Institute of Medical Sciences Abbottabad,29910,7521,7216,134158,0,33,public,International Relations,Qaid Kashmir
-351,30042,Shaheed Zulfiqar Ali Bhutto University of Law Karachi,30021,7521,7216,148157,0,21,private,Medical Sciences,Sindh
+349,29843,Fatima Jinnah Medical University Lahore,29820,7521,7216,100647,0,45,private,Medical,KPK
+350,29932,Frontier Institute of Medical Abbottabad,29910,7521,7216,134158,0,33,public,International Relations,Qaid Kashmir
+351,30042,Shaheed Zulfiqar Ali Bhutto University of Law Karachi,30021,7521,7216,148157,0,21,private,Medical,Sindh
 352,30042,Information Technology & Management College,30021,7521,7216,136132,0,50,public,International Relations,Punjab
-353,30140,Sir Sayyed College of Arts Commerce & Science,30123,7521,7216,119216,0,85,private,Medical Sciences,Sindh
+353,30140,Sir Sayyed College of Arts Commerce & Science,30123,7521,7216,119216,0,85,private,Medical,Sindh
 354,30223,Emaan Institute of Management & Sciences Karachi,30208,7521,7216,146098,1,58,public,Engineering,Balochistan
 355,30223,Murray College (Government Murray College Sialkot),30208,7521,7216,102023,0,70,public,Business Administration,KPK
-356,30635,Institute of Molecular Sciences and Bioinformatics,30624,7521,7216,111745,1,49,public,Medical Sciences,Punjab
+356,30635,Institute of Molecular Sciences and Bioinformatics,30624,7521,7216,111745,1,49,public,Medical,Punjab
 357,30720,Government College of Commerce & Economics,30710,7521,7216,84788,0,65,private,Accounting and Finance,Qaid Kashmir
 358,30902,CONFED School of Professional Studies,30894,7521,7216,147577,1,51,private,Business Administration,KPK
 359,30973,Quaid-e-Azam College of Accountancy & Commerce,30967,7521,7216,92361,0,63,public,Computer Science,KPK
-360,31054,Fatima-tuz-Zohra Girls Degree College,31049,7521,7216,106876,1,21,private,Medical Sciences,Qaid Kashmir
+360,31054,Fatima-tuz-Zohra Girls Degree College,31049,7521,7216,106876,1,21,private,Medical,Qaid Kashmir
 361,31054,Jinnah Institute,31049,7521,7216,134260,1,17,public,Computer Science,KPK
 362,31054,Muhammadan Science College Hajira Poonch,31049,7521,7216,88056,1,62,private,Engineering,KPK
-363,31118,University of Art and Culture Jamshoro,31113,7521,7216,100680,1,64,public,Medical Sciences,Punjab
+363,31118,University of Art and Culture Jamshoro,31113,7521,7216,100680,1,64,public,Medical,Punjab
 364,31118,International School of Business and Law Karachi,31113,7521,7216,110090,1,22,public,Accounting and Finance,KPK
-365,31174,National Institute of Vacuum Science & Technology,31169,7521,7216,82724,1,40,public,Medical Sciences,Balochistan
+365,31174,National Institute of Vacuum Science & Technology,31169,7521,7216,82724,1,40,public,Medical,Balochistan
 366,31243,MiTE University Karachi,31239,7521,7216,113030,1,76,public,Computer Science,KPK
