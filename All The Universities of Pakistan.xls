@@ -163,7 +163,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 162,15686,University of Home Economics Lahore,14185,7521,7216,83897,1,20,public,Accounting and Finance,Qaid Kashmir
 163,15747,University of Sahiwal,19291,6056,7216,137712,0,58,public,Business Administration,KPK
 164,15765,Khadim Ali Shah Bukhari Institute of Technology,14271,7521,7216,138775,0,67,private,Computer Science,Punjab
-165,15874,Jinnah Medical College Peshawar,14399,7521,7216,87924,0,54,public,Accounting and Finance,Punjab
+165,15874,Jinnah Medical College Peshawar,14399,7521,7216,87924,0,54,public,Medical Sciences,Punjab
 166,15961,DHA Suffa University,14506,7521,7216,89636,1,40,public,Business Administration,Sindh
 167,16056,COMSATS University Islamabad Virtual campus,14618,7521,7216,137490,0,31,private,Accounting and Finance,Punjab
 168,16084,Karachi Institute of Technology and Entrepreneurship,14648,7521,7216,114300,0,33,public,Business Administration,KPK
@@ -231,7 +231,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 230,19868,Government College University Lahore,19110,7521,7216,126726,0,72,private,Medical Sciences,Punjab
 231,19940,Nazeer Hussian University Karachi,19188,7521,7216,93535,1,26,public,Engineering,Qaid Kashmir
 232,20000,Preston Institute of Management Sciences and Technology Karachi,19252,7521,7216,117798,0,13,private,International Relations,Qaid Kashmir
-233,20037,Jinnah Medical & Dental College,19291,7521,7216,83341,0,73,private,Computer Science,Sindh
+233,20037,Jinnah Medical & Dental College,19291,7521,7216,83341,0,73,private,Medical Sciences,Sindh
 234,20104,Institute of Industrial Electronics Engineering,19368,7521,7216,141002,1,43,private,Computer Science,Punjab
 235,20132,Nishtar Medical College,23767,7521,6829,113752,0,61,private,Engineering,Balochistan
 236,20298,Sir Syed College of Medical Sciences for Girls,19592,7521,7216,127916,1,42,public,Computer Science,Qaid Kashmir
@@ -347,7 +347,7 @@ ranking,World Rank,University,Impact Rank,Openness Rank,Excellence Rank,tuition_
 346,29659,Government Post Graduate College Mandian Abbottabad,29635,7521,7216,123750,0,16,public,Computer Science,Qaid Kashmir
 347,29843,Liaquat College of Management and Science,29820,7521,7216,129804,1,16,public,Engineering,Qaid Kashmir
 348,29843,SMA Rizvi Textile Institute,29820,7521,7216,108939,0,35,private,Accounting and Finance,KPK
-349,29843,Fatima Jinnah Medical University Lahore,29820,7521,7216,100647,0,45,private,Accounting and Finance,KPK
+349,29843,Fatima Jinnah Medical University Lahore,29820,7521,7216,100647,0,45,private,Medical Sciences,KPK
 350,29932,Frontier Institute of Medical Sciences Abbottabad,29910,7521,7216,134158,0,33,public,International Relations,Qaid Kashmir
 351,30042,Shaheed Zulfiqar Ali Bhutto University of Law Karachi,30021,7521,7216,148157,0,21,private,Medical Sciences,Sindh
 352,30042,Information Technology & Management College,30021,7521,7216,136132,0,50,public,International Relations,Punjab
