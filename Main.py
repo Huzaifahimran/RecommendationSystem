@@ -22,7 +22,7 @@ tokenizer, model = load_tokenizer_model()
 #Define dropdown options
 user_interest_options = [
     'Computer Science', 'International Relations', 'Accounting and Finance',
-    'Business Administration', 'Medical Sciences', 'Engineering'
+    'Business Administration', 'Medical', 'Engineering'
 ]
 
 preferred_location_options = [
