@@ -26,7 +26,7 @@ user_interest_options = [
 ]
 
 preferred_location_options = [
-    'KPK', 'Punjab', 'Qaid Kashmir', 'Sindh', 'Balochistan'
+    'KPK', 'Punjab', 'Sindh', 'Balochistan'
 ]
 
 #Function to get BERT embeddings
